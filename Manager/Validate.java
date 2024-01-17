@@ -20,7 +20,7 @@ public class Validate {
                 int result = Integer.parseInt(in.nextLine().trim());
                 if (result < min || result > max) {
                     throw new NumberFormatException();
-
+                //cmt ne hihi
                 }
                 return result;
             } catch (NumberFormatException e) {
