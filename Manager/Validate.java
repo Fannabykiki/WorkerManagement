@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Validate {
 
     private final static Scanner in = new Scanner(System.in);
-
+        //cmt checj
     //check user input number limit
     public static int checkInputIntLimit(int min, int max) {
         //loop until user input correct
